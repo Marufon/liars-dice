@@ -1,0 +1,3 @@
+﻿  Liars Dice.cpp
+C:\Users\ericq\Desktop\Liars Dice\Liars Dice\Liars Dice.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Liars Dice.vcxproj -> C:\Users\ericq\Desktop\Liars Dice\Debug\Liars Dice.exe

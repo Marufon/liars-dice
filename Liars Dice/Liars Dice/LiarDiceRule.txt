@@ -1,0 +1,9 @@
+Welcome To Liar's Dice! Here Are The Rules!
+
+All players roll their dice.
+The first player will then call how many dice of a certain value are on the table.
+The number called will be based on the entire dice pool in play including your own dice.
+The remaining players must either pass or call if this player's prediction is correct.
+If all players pass then the game continues and the next player must call a higher value in total dice of any number.
+Players will be rewarded with one point if they correctly call bluff or have someone falsely call their bluff.
+If not the game will continue until someone is called out, Have fun!

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Liars Dice", "Liars Dice\Liars Dice.vcxproj", "{B4EA4BE9-3EC6-405E-910F-3E22C17B11E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4EA4BE9-3EC6-405E-910F-3E22C17B11E6}.Debug|x64.ActiveCfg = Debug|x64
+		{B4EA4BE9-3EC6-405E-910F-3E22C17B11E6}.Debug|x64.Build.0 = Debug|x64
+		{B4EA4BE9-3EC6-405E-910F-3E22C17B11E6}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4EA4BE9-3EC6-405E-910F-3E22C17B11E6}.Debug|x86.Build.0 = Debug|Win32
+		{B4EA4BE9-3EC6-405E-910F-3E22C17B11E6}.Release|x64.ActiveCfg = Release|x64
+		{B4EA4BE9-3EC6-405E-910F-3E22C17B11E6}.Release|x64.Build.0 = Release|x64
+		{B4EA4BE9-3EC6-405E-910F-3E22C17B11E6}.Release|x86.ActiveCfg = Release|Win32
+		{B4EA4BE9-3EC6-405E-910F-3E22C17B11E6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4442B5B9-1F72-4720-AE7F-B8C51B969073}
+	EndGlobalSection
+EndGlobal
